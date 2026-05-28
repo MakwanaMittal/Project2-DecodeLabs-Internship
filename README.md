@@ -119,7 +119,7 @@ This visualization shows the revenue contribution of different products and help
 ### Monthly Sales Trend
 
 <p align="center">
-  <img src="Images/product_revenue.pngmonthly_sales_trend.png" alt="Monthly Sales Trend" width="700"/>
+  <img src="Images/monthly_sales_trend.png" alt="Monthly Sales Trend" width="700"/>
 </p>
 
 This chart illustrates monthly revenue trends and highlights seasonal sales patterns.
@@ -129,7 +129,7 @@ This chart illustrates monthly revenue trends and highlights seasonal sales patt
 ### Order Status Distribution
 
 <p align="center">
-  <img src="Images/product_revenue.pngorder_status_pie.png" alt="Order Status Distribution" width="600"/>
+  <img src="Images/order_status_pie.png" alt="Order Status Distribution" width="600"/>
 </p>
 
 The pie chart represents the distribution of order statuses such as completed, pending, or cancelled orders.
@@ -139,7 +139,7 @@ The pie chart represents the distribution of order statuses such as completed, p
 ### Revenue Outlier Detection
 
 <p align="center">
-  <img src="Images/product_revenue.pngtotal_price_boxplot.png" alt="Revenue Outlier Detection" width="700"/>
+  <img src="Images/total_price_boxplot.png" alt="Revenue Outlier Detection" width="700"/>
 </p>
 
 The boxplot helps identify abnormal or high-value transactions using outlier analysis.
