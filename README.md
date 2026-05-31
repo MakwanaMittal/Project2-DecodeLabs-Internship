@@ -235,6 +235,6 @@ Possible enhancements for the project:
 
 **Organization:** DecodeLabs
 
-**Project:** E-Commerce Data Analytics Using Excel/Google Sheets
+**Project:** E-Commerce Data Analytics Using Python/Excel/Google Sheets
 
 **Year:** 2026
