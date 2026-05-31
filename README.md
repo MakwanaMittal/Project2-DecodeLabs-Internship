@@ -1,4 +1,20 @@
-# Data Analytics Project 2
+# E-Commerce Data Analytics Using Python/Excel/Google Sheets
+### DecodeLabs Industrial Training Program – Project 2
+
+## Project Title
+**E-Commerce Data Analytics**
+
+---
+
+## Internship Details
+
+**Program:** DecodeLabs Industrial Training Program (Batch 2026)  
+**Domain:** Data Analytics  
+**Project:** Project 2 – E-Commerce Data Analytics  
+**Role:** Data Analyst Trainee
+
+---
+
 
 ## Overview
 This project focuses on performing exploratory data analysis (EDA), data cleaning, statistical analysis, and visualization on an e-commerce sales dataset using Python. The project demonstrates how raw business data can be transformed into meaningful insights through analytical techniques and visual storytelling.
