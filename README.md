@@ -227,4 +227,14 @@ Possible enhancements for the project:
 
 ---
 
+## Submitted By
 
+**Name:** Mittal Makwana
+
+**Role:** Data Analytics Intern / Trainee
+
+**Organization:** DecodeLabs
+
+**Project:** SQL Data Analysis
+
+**Year:** 2026
